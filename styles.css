@@ -1,0 +1,101 @@
+h1{
+    background-color: rgba(0, 0, 0, .8);
+	color: white;
+    padding: 15px 20px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 11px;
+    
+    
+}
+
+.hi{
+    background-color: rgba(0, 0, 0, .3);
+	color: white;
+    padding: 10px 15px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    display: inline;
+    margin: 0, auto;
+   
+    
+
+    
+  
+}
+
+section{
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+     
+}
+
+.hello{
+    background-color: turquoise;
+	color:black;
+    padding: 10px 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    display: block;
+    margin: 0 25px;
+    text-align: left;
+    
+}
+
+.how{
+    background-color: black;
+	color: white;
+    padding: 15px 20px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+a{
+
+	color:blue;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    display: inline;
+    margin: 0 auto;
+    font-weight: bold;
+    
+  
+}
+
+.tree{
+    width: 100%;
+    background-color: yellow;
+    margin:0;
+    margin-left: 0px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+
+u {
+    text-decoration-color: yellow;
+}
+
+.are{
+
+  text-align:center;
+  display:inline-block;
+  background-color: transparent;
+  border: 1px solid transparent;
+  margin-right: 0px;
+  margin-bottom: 1px;
+  margin-left: 0px;
+
+
+}
+
+.she{
+    width: 100%;
+    text-align: center;
+}
+
+.parent{
+    width: 100%;
+    
+    
+}
